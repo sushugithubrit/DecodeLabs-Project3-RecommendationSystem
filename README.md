@@ -25,3 +25,11 @@ To understand the fundamentals of recommendation systems, user preference analys
 ## Internship
 
 DecodeLabs Artificial Intelligence Internship – Project 3
+## Sample Output
+
+The recommendation system successfully generated recommendations based on user interests.
+
+## Output Screenshot
+
+* recommendation_output.png
+
